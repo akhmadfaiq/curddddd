@@ -1,0 +1,10 @@
+C:\Users\akhma\source\repos\cruddd\cruddd\bin\Debug\cruddd.exe.config
+C:\Users\akhma\source\repos\cruddd\cruddd\bin\Debug\cruddd.exe
+C:\Users\akhma\source\repos\cruddd\cruddd\bin\Debug\cruddd.pdb
+C:\Users\akhma\source\repos\cruddd\cruddd\obj\Debug\cruddd.csprojAssemblyReference.cache
+C:\Users\akhma\source\repos\cruddd\cruddd\obj\Debug\cruddd.Form1.resources
+C:\Users\akhma\source\repos\cruddd\cruddd\obj\Debug\cruddd.Properties.Resources.resources
+C:\Users\akhma\source\repos\cruddd\cruddd\obj\Debug\cruddd.csproj.GenerateResource.cache
+C:\Users\akhma\source\repos\cruddd\cruddd\obj\Debug\cruddd.csproj.CoreCompileInputs.cache
+C:\Users\akhma\source\repos\cruddd\cruddd\obj\Debug\cruddd.exe
+C:\Users\akhma\source\repos\cruddd\cruddd\obj\Debug\cruddd.pdb
